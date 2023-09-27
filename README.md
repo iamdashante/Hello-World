@@ -1,2 +1,2 @@
 # Hello-World
-This is for copilot
+This is for Github Copilot
